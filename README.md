@@ -6,19 +6,23 @@
 -Italo Cufiño Novoa 
 
 Git add .
- - Agrega los nuevos cambios de toda la carpeta
+Agrega los nuevos cambios de toda la carpeta
+ 
  ![](Img/IMG1.PNG)
  
 git commit -m "Message"
  - Se usa para guardar los cambios que se han hecho hasta el momento en el repositorio local, el cual tiene un mensaje que indica que se a hecho.
+ 
  ![](Img/IMG2.PNG)
  
 git remote add origin <server>
  - Poder adicionar el repositorio creado en git
+ 
  ![](Img/IMG3.PNG)
 
 git push origin master
  -Envía los cambio locales al repositorio público.
+ 
  ![](Img/IMG4.PNG)
  
 git clone <repository>
